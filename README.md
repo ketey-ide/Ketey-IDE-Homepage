@@ -1,5 +1,5 @@
 # ketey-ide-homepage
-This is a website where you can share your Snail IDE projects with the community.<br />
+This is a website where you can share your Ketey IDE projects with the community.<br />
 Based off of Snail-IDE/snail-ide-website.<br />
 
 # building instructions
